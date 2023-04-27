@@ -26,7 +26,7 @@ body{
 .main{
 	width: 350px;
 	height: 500px;
-	background-color: #FF3CAC;
+	background-color: #e9c5ff;
     background-image: linear-gradient(225deg, #168730 0%, #002f50 62%);
 	overflow: hidden;
 	border-radius: 10px;
